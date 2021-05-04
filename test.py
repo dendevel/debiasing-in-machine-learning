@@ -19,4 +19,4 @@ fairml.evaluate_fairness(plot=True, show_description=True)
 fairml = fairml.fit_resample(strategy='combined', inplace=True)
 # %%
 fairml.evaluate_fairness(plot=True, show_description=True, compare=True)
-# %%
+

@@ -18,7 +18,7 @@ class Resampler():
     _data: pd.DataFrame
     _target: pd.Series
     
-    MIMIMUM_SAMPLES = 6
+    MIMIMUM_SAMPLES = 8
 
 # -------------------------------- Constructor ------------------------------- #
 
